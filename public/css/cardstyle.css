@@ -1,0 +1,8 @@
+.cardstyle{
+    display : flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.thumbnailss{
+    width: 400px;
+}
